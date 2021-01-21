@@ -10,6 +10,6 @@ An awesome list of sustainable web design & development resources.
 
 - [Website Carbon Calculator](https://www.websitecarbon.com/) - Estimate your web page carbon footprint.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
