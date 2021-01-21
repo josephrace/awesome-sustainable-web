@@ -1,6 +1,8 @@
-# Awesome Web Sustainability [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Web Sustainability [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-An awesome list of links related to web sustainability.
+An awesome list about web sustainability.
+
+## Contents
 
 ## Contribute
 
