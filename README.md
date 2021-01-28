@@ -13,7 +13,7 @@ An awesome list of sustainable web design & development resources.
 
 ## Websites
 
-- [sustainablewebdesign.org](https://sustainablewebdesign.org/) - _the_ sustainable web design site, with lots of strategies for delivering sustainable projects.
+- [Sustainable Web Design](https://sustainablewebdesign.org/) - _the_ sustainable web design site, with lots of strategies for delivering sustainable projects.
 
 ## Contributing
 
