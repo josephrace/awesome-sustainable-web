@@ -4,8 +4,17 @@ An awesome list of sustainable web design & development resources.
 
 ## Contents
 
+- [Articles](#articles)
+- [Books](#books)
+- [Guides](#guides)
 - [Tools](#tools)
 - [Websites](#websites)
+
+## Articles
+
+## Books
+
+## Guides
 
 ## Tools
 
