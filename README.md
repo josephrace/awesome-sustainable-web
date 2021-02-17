@@ -25,6 +25,7 @@ An awesome list of sustainable web design & development resources.
 
 ## Websites
 
+- [Branch](https://branch.climateaction.tech/) - an online magazine written by and for people who dream of a sustainable and just internet for all.
 - [Sustainable Web Design](https://sustainablewebdesign.org/) - _the_ sustainable web design site, with lots of strategies for delivering sustainable projects.
 - [Sustainable Web Manifest](https://www.sustainablewebmanifesto.com/) - manifesto for building a more sustainable web.
 
