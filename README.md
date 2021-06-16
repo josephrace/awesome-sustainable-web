@@ -15,7 +15,7 @@ An awesome list of sustainable web design & development resources.
 ## Books
 
 - [Designing for Sustainability](https://www.oreilly.com/library/view/designing-for-sustainability/9781491935767/) - A guide to building greener digital products and services, by Tim Frick.
-- [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) - Make greener design choices for better experiences and a healthier planet, by Tom Greenwood
+- [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) - Make greener design choices for better experiences and a healthier planet, by Tom Greenwood.
 
 ## Guides
 
